@@ -6,13 +6,14 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
+    title: "business card Advocate : size is 3.5W x 4H mm and serif font is use. or size is 8pt to 12pt. tow side business card front or back. And clock business card size is 3.5W x 4H mm  san serif font use or size is 8pt to 12pt tow side business card front or back.",
     cardImage: "assets/images/project-page/advovate.jpg",
     description: "A quiz app built using basic react.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "",
   },
+  /*
   {
     title: "Chess Engine",
     cardImage: "assets/images/project-page/amul_cheese.jpg",
@@ -21,8 +22,9 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
+  */
   {
-    title: "Flappy Bird",
+    title: "westend poster design size is A4",
     cardImage: "assets/images/project-page/backup_of_watch.jpg",
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -30,13 +32,14 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Exercise Tracker",
+    title: "excel elevator file printing to create Adobe InDesign . size 22Wx 30H",
     cardImage: "assets/images/project-page/elevator.jpg",
     description: "Exercise tracker built using basic redux.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
     Githublink: "",
   },
+  /*
   {
     title: "Recipe Ingredient Parser",
     cardImage: "assets/images/project-page/lavie_bag.jpg",
@@ -46,6 +49,7 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
+  
   {
     title: "Poker Game",
     cardImage: "assets/images/project-page/sparx_shoe.jpg",
@@ -54,8 +58,9 @@ const projects = [
     Previewlink: "assets/images/project-page/sparx_shoe.jpg",
     Githublink: "",
   },
+  */
   {
-    title: "Tic Tac Toe Game",
+    title: "Titan brand advertisement size is 10W x7H.",
     cardImage: "assets/images/project-page/titan_watch.jpg",
     description:
       "Tested a React Tic Tac Toe Game using Jest and React Testing Library.",
@@ -63,6 +68,7 @@ const projects = [
     Previewlink: "assets/images/project-page/titan_watch.jpg",
     Githublink: "",
   },
+  /*
   {
     title: "Personal Book Library",
     cardImage: "assets/images/project-page/travel_tour.jpg",
@@ -72,6 +78,7 @@ const projects = [
     Previewlink: "assets/images/project-page/travel_tour.jpg",
     Githublink: "",
   },
+  */  
   
 ];
 
